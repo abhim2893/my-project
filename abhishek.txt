@@ -1,3 +1,16 @@
-this brach belongs to me 
-all good
-and code is formated
+sudo apt-get update
+sudo apt-get install git
+vim token
+cat token
+git clone (past the link)
+        - username:_________
+        - password:_________
+cd my-project
+mkdir abhishek.txt
+          (write the code)
+cd ....
+ls
+git status
+git add abhishek/
+git commit -m "adding folder"
+git push
